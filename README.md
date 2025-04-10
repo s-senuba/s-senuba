@@ -28,7 +28,7 @@
 ---
 
 📫 Bana Ulaş:
-- LinkedIn: [linkedin.com/in/s-senuba](#) 
+- LinkedIn: [linkedin.com/in/s-senuba](https://www.linkedin.com/in/s-senuba/) 
 
 
 ---
