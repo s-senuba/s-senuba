@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">👋 Merhaba, ben Sema!</h1>
+<h3 align="center">Inönü Üniversitesi Bilgisayar Programcılığı öğrencisiyim 💻</h3>
 
-<!--
-**s-senuba/s-senuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎯 Hakkımda Kısaca:
+- 🎓 Şu an **Bilgisayar Programcılığı** bölümünde öğrenim görüyorum.  
+- 💡 Yazılım dünyasına tutkuyla bağlıyım, özellikle **Java**, **JavaScript**, **Node.js** ve **C#** ile ilgileniyorum.  
+- 🚀 Projelerimde genellikle **VS Code**, **Visual Studio 2019** ve **IntelliJ IDEA** kullanıyorum.  
+- 🌱 Yeni teknolojileri öğrenmeyi seviyorum ve her zaman gelişmeye açığım.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ Kullandığım Teknolojiler & Araçlar:
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,cs,git,github,vscode,visualstudio,intellij" alt="tech-stack" />
+</p>
+
+---
+
+📈 GitHub İstatistiklerim:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s-senuba&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-senuba&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+📫 Bana Ulaş:
+- LinkedIn: [linkedin.com/in/s-senuba](#) 
+
+
+---
+
+🧠 "Kod, düşündüğün gibi çalışmaz; yazdığın gibi çalışır."
+
