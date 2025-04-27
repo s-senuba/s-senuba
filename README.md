@@ -18,14 +18,6 @@
 
 ---
 
-📈 GitHub İstatistiklerim:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-senuba&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-senuba&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 📫 Bana Ulaş:
 - LinkedIn: [linkedin.com/in/s-senuba](https://www.linkedin.com/in/s-senuba/) 
