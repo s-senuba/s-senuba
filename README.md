@@ -13,7 +13,8 @@
 
 🛠️ Kullandığım Teknolojiler & Araçlar:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,cs,git,github,vscode,visualstudio,intellij" alt="tech-stack" />
+   <img src="https://skillicons.dev/icons?i=java,js,nodejs,cs,git,github,vscode,visualstudio,androidstudio" alt="tech-stack" />
+  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40" style="vertical-align:middle;" />
 </p>
 
 ---
