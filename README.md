@@ -6,14 +6,14 @@
 🎯 Hakkımda Kısaca:
 - 🎓 Şu an **Bilgisayar Programcılığı** bölümünde öğrenim görüyorum.  
 - 💡 Yazılım dünyasına tutkuyla bağlıyım, özellikle **Java**, **JavaScript**, **Node.js** ve **C#** ile ilgileniyorum.  
-- 🚀 Projelerimde genellikle **VS Code**, **Visual Studio 2019** ve **IntelliJ IDEA** kullanıyorum.  
+- 🚀 Projelerimde genellikle **VS Code**, **Visual Studio 2019** , **IntelliJ IDEA** ve **Android Studio** kullanıyorum.  
 - 🌱 Yeni teknolojileri öğrenmeyi seviyorum ve her zaman gelişmeye açığım.
 
 ---
 
 🛠️ Kullandığım Teknolojiler & Araçlar:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,cs,git,github,vscode,visualstudio,intellij" alt="tech-stack" />
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,cs,git,github,vscode,visualstudio,intellij,androidstudio" alt="tech-stack" />
 </p>
 
 ---
