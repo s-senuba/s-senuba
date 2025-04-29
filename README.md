@@ -13,7 +13,7 @@
 
 🛠️ Kullandığım Teknolojiler & Araçlar:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,cs,git,github,vscode,visualstudio,intellij,androidstudio" alt="tech-stack" />
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,cs,git,github,vscode,visualstudio,intellij" alt="tech-stack" />
 </p>
 
 ---
