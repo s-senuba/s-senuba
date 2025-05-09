@@ -26,5 +26,5 @@
 
 ---
 
-🧠 "Kod, düşündüğün gibi çalışmaz; yazdığın gibi çalışır."
+- Carbon: [Koddan görsele 🚀](https://carbon.now.sh/) 
 
