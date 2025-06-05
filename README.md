@@ -19,12 +19,5 @@
 
 ---
 
-
-📫 Bana Ulaş:
-- LinkedIn: [linkedin.com/in/s-senuba](https://www.linkedin.com/in/s-senuba/) 
-
-
----
-
 - Carbon: [Koddan görsele 🚀](https://carbon.now.sh/) 
 
