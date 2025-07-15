@@ -5,19 +5,18 @@
 
 🎯 Hakkımda Kısaca:
 - 🎓 **Bilgisayar Programcılığı** bölümünden mezun oldum.  
-- 💡 Yazılım dünyasına tutkuyla bağlıyım, özellikle **Java**, **JavaScript**, **HTML&CSS** ve **Python** ile ilgileniyorum.  
-- 🚀 Projelerimde genellikle **VS Code**, **Visual Studio 2019** , **IntelliJ IDEA** ve **Android Studio** kullanıyorum.  
+- 💡 Yazılım dünyasına tutkuyla bağlıyım, özellikle **HTML&CSS** ve **Python** ile ilgileniyorum.  
+- 🚀 Projelerimde genellikle **VS Code** kullanıyorum.  
 - 🌱 Yeni teknolojileri öğrenmeyi seviyorum ve her zaman gelişmeye açığım.
 
 ---
 
 🛠️ Kullandığım Teknolojiler & Araçlar:
 <p>
-   <img src="https://skillicons.dev/icons?i=java,js,nodejs,cs,git,github,vscode,visualstudio,androidstudio,python" alt="tech-stack" />
-  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40" style="vertical-align:middle;" />
-</p>
+   <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,python" alt="tech-stack" />
+
 
 ---
 
-- Carbon: [Koddan görsele 🚀](https://carbon.now.sh/) 
+- Daha fazlası için profilime göz atmayı unutma. Ziyaretin için teşekkür ederim.👋✨
 
